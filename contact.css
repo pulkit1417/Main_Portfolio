@@ -70,6 +70,10 @@
     width:130px;
     border-radius: 30px;
     font-size: larger;
+    transition: all 0.3s ease 0s;
+}
+#send:hover{
+    scale:1.1;
 }
 input{
     outline:none;
