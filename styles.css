@@ -120,9 +120,3 @@ h2{
     background-image: url("z1.png");
     background-size: cover;
 }
-marquee{
-    position: absolute;
-    color:white;
-    font-size: x-large;
-    font-weight: 500;
-}
