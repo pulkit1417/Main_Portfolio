@@ -58,9 +58,9 @@
 #message{
     height:120px;
     width: auto;    
-    text-align:center;
     background-color: #ffd60a;
     border:0.2px solid black;
+    padding: 10px 0 0 10px;
 }
 #send{
     background-color: #7209b7;
@@ -73,6 +73,9 @@
 }
 input{
     outline:none;
+}
+textarea{
+    outline: none;
 }
 #f-main{
     height:58vh;
