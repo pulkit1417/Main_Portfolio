@@ -17,9 +17,21 @@
     display:flex;
     flex-direction: row;
 }
-
 .nav{
     transform: rotate(270deg);
+    transition:all 0.5s ease 0s;
+}
+#about:hover{
+    scale:1.2;    
+}
+#skills:hover{
+    scale:1.2;
+}
+#partners:hover{
+    scale:1.2;
+}
+#goals:hover{
+    scale:1.2;
 }
 
 #icons{
