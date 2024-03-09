@@ -74,6 +74,7 @@
     background-color: black;
     height:auto;
     width:40vw;
+    overflow: hidden;
 }
 #one{
     font-size: xx-large;
@@ -129,6 +130,6 @@ h2{
     top:240px;
     height:130px;
     width:130px;
-    background-image: url("z1.png");
+    background-image: url("images/z1.png");
     background-size: cover;
 }
