@@ -10,7 +10,7 @@ Ps: The Website is not yet responsive.
 ## Future Updates
 I plan to continuously improve and expand upon this portfolio website. Some features and enhancements I have in mind for future updates.
 
-## Adding more projects with detailed descriptions
+## Adding more Pages with detailed descriptions
 Incorporating animations or interactive elements for a more engaging user experience
 Including testimonials or endorsements from clients or colleagues
 Integrating a blog section to share insights, tutorials, or personal experiences
